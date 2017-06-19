@@ -11,11 +11,27 @@
 - More going over answers
 - More links with video tutorials
 
+![](WDI3_Unit1_1.JPG)
+![](WDI3_Unit1_2.JPG)
+![](WDI3_Unit1_3.JPG)
+![](WDI3_Unit1_4.JPG)
+
 ## Notes from Unit 2
 
 - Get Mocha tests in rubric for project 2
+
+![](WDI3_Unit2_1.JPG)
+![](WDI3_Unit2_2.JPG)
+![](WDI3_Unit2_3.JPG)
+![](WDI3_Unit2_4.JPG)
 
 ## Notes from Unit 3
 
 - Flip rapid prototype and user testing days 
 - Rapid Prototype: clarify 15 minute limit on same error before filing GH issue, make sure they know: You cannot ../ out of your back-end
+
+![](WDI3_Unit3_1.JPG)
+![](WDI3_Unit3_2.JPG)
+![](WDI3_Unit3_3.JPG)
+![](WDI3_Unit3_4.JPG)
+![](WDI3_Unit3_5.JPG)
