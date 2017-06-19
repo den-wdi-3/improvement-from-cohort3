@@ -35,3 +35,8 @@
 ![](WDI3_Unit3_3.JPG)
 ![](WDI3_Unit3_4.JPG)
 ![](WDI3_Unit3_5.JPG)
+
+## Nick's Notes
+
+- Can we introduce MVC sooner? [mvc-folder-structure](https://github.com/den-materials/mvc-folder-structure) should be the afternoon after intro to MVC (planes, then planes in folders)
+- Almost all lessons could use visuals in some way
