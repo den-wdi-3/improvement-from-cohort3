@@ -19,3 +19,8 @@
 
 - Flip rapid prototype and user testing days 
 - Rapid Prototype: clarify 15 minute limit on same error before filing GH issue, make sure they know: You cannot ../ out of your back-end
+
+## Nick's Notes
+
+- Can we introduce MVC sooner? (mvc-folder-structure)[https://github.com/den-materials/mvc-folder-structure] should be the afternoon after intro to MVC (planes, then planes in folders)
+- Almost all lessons could use visuals in some way
