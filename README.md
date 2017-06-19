@@ -22,5 +22,5 @@
 
 ## Nick's Notes
 
-- Can we introduce MVC sooner? (mvc-folder-structure)[https://github.com/den-materials/mvc-folder-structure] should be the afternoon after intro to MVC (planes, then planes in folders)
+- Can we introduce MVC sooner? [mvc-folder-structure](https://github.com/den-materials/mvc-folder-structure) should be the afternoon after intro to MVC (planes, then planes in folders)
 - Almost all lessons could use visuals in some way
